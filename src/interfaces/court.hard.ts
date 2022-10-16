@@ -1,0 +1,6 @@
+
+interface ICourtHard {
+    
+    cleanHardCourt(): void;
+ }
+ 

@@ -1,0 +1,5 @@
+
+interface ICourtGrass {
+
+   cutGrass(): void;
+}
